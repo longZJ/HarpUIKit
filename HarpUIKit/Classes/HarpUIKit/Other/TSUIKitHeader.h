@@ -49,8 +49,6 @@ _Pragma("clang diagnostic pop")
 
 #import <JXTAlertManager/JXTAlertManagerHeader.h>
 
-//#import "SVProgressHUD.h" 这种三方库 不要在公有库的.h文件中导入 不然会报错
-
 #import "HUDUtil.h"
 
 #import "UIViewController+PhotoShow.h"
