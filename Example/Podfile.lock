@@ -1,31 +1,28 @@
 PODS:
-  - HarpUIKit (1.0.0):
-    - JXTAlertManager
-    - MJRefresh
-    - SVProgressHUD
   - JXTAlertManager (1.0.2)
+  - LGSideMenuController (2.1.1)
   - MJRefresh (3.2.0)
   - SVProgressHUD (2.2.5)
 
 DEPENDENCIES:
-  - HarpUIKit (from `../`)
+  - JXTAlertManager
+  - LGSideMenuController
+  - MJRefresh
+  - SVProgressHUD
 
 SPEC REPOS:
   trunk:
     - JXTAlertManager
+    - LGSideMenuController
     - MJRefresh
     - SVProgressHUD
 
-EXTERNAL SOURCES:
-  HarpUIKit:
-    :path: "../"
-
 SPEC CHECKSUMS:
-  HarpUIKit: f5dc8fc8cabf8167c53f105d141eee29f9d7086e
   JXTAlertManager: 71a89e90ac1a6d72862fbe884eab513cb243a344
+  LGSideMenuController: ae40c80983ab8b8801c7cef0a6804d43aaa72d45
   MJRefresh: ed450d6eb9d3346a2cb033ab7eb6de090aeef437
   SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
 
-PODFILE CHECKSUM: 3168151784012fbe315196549b4781373182264c
+PODFILE CHECKSUM: b27b448fd96dce895387efd4449738f74889daa2
 
 COCOAPODS: 1.8.0.beta.2
