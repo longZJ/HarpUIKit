@@ -16,5 +16,4 @@ target 'HarpUIKit_Example' do
   
   pod 'LGSideMenuController'
 
-  end
 end
