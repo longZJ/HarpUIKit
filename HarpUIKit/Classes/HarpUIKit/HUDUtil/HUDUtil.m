@@ -7,7 +7,7 @@
 //
 
 #import "HUDUtil.h"
-#import "SVProgressHUD.h"
+#import <SVProgressHUD/SVProgressHUD.h>
 
 static HUDUtil *manager = nil;
 @implementation HUDUtil
