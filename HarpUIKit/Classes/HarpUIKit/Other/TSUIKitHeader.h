@@ -49,6 +49,6 @@ _Pragma("clang diagnostic pop")
 
 #import <JXTAlertManager/JXTAlertManagerHeader.h>
 
-#import <HarpUIKit/HUDUtil.h>
+#import "HUDUtil.h"
 
 #import "UIViewController+PhotoShow.h"

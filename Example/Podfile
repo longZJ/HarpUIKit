@@ -3,10 +3,18 @@ use_frameworks!
 platform :ios, '8.0'
 
 target 'HarpUIKit_Example' do
-  pod 'HarpUIKit', :path => '../'
-
-  target 'HarpUIKit_Tests' do
-    inherit! :search_paths
   
+#  pod 'HarpUIKit', :path => '../'
+
+  pod 'JXTAlertManager'
+  
+  pod 'SVProgressHUD'
+  
+  pod 'MJRefresh'
+  
+  #pod 'MMDrawerController', '~> 0.5.7'
+  
+  pod 'LGSideMenuController'
+
   end
 end
