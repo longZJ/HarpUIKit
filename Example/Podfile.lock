@@ -1,12 +1,14 @@
 PODS:
   - JXTAlertManager (1.0.2)
   - LGSideMenuController (2.1.1)
+  - Masonry (1.1.0)
   - MJRefresh (3.2.0)
   - SVProgressHUD (2.2.5)
 
 DEPENDENCIES:
   - JXTAlertManager
   - LGSideMenuController
+  - Masonry
   - MJRefresh
   - SVProgressHUD
 
@@ -14,15 +16,17 @@ SPEC REPOS:
   trunk:
     - JXTAlertManager
     - LGSideMenuController
+    - Masonry
     - MJRefresh
     - SVProgressHUD
 
 SPEC CHECKSUMS:
   JXTAlertManager: 71a89e90ac1a6d72862fbe884eab513cb243a344
   LGSideMenuController: ae40c80983ab8b8801c7cef0a6804d43aaa72d45
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
   MJRefresh: ed450d6eb9d3346a2cb033ab7eb6de090aeef437
   SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
 
-PODFILE CHECKSUM: b27b448fd96dce895387efd4449738f74889daa2
+PODFILE CHECKSUM: 357a712454eb995660d9c9914cf1664050247c3d
 
 COCOAPODS: 1.8.0.beta.2
